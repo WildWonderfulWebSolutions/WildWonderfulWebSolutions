@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brenda@WildWonderfulWebSolutions
-- 👀 I’m interested in Full Stack Web Dev 
+- 👀 I’m interested in Website Creations and Digital Solutions for today's tech world
 - 🌱 I’m currently learning Html,CSS,Java
 - 💞️ I’m not looking to collaborate at this time
 - 📫 How to reach me Slack, Facebook 
